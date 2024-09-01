@@ -1,3 +1,5 @@
 1) Primer archivo de texto creado desde el repositorio remoto
 
 2) agrego esta línea en el host
+
+3) cambio en la rama dev desde el repo local
